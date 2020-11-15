@@ -1,0 +1,4 @@
+* TAREFAS A SE FAZER:
+
+    - Descobrir como usar o Vue para componentizar as tags
+    - 
